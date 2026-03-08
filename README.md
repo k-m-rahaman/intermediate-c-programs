@@ -60,7 +60,7 @@ gcc filename.c -o output
 
 Replace filename.c with the program you want to execute.
 
-#Purpose of This Repository
+# Purpose of This Repository
 
 Strengthen C programming fundamentals
 
