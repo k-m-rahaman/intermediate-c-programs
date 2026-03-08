@@ -22,41 +22,52 @@ Logical problem solving
 
 1. Armstrong Number Checker
 Checks whether a given number is an Armstrong number.
+
 File: armstrong_number.c
 
 2. Reverse Number
 Reverses the digits of a given number using mathematical operations.
+
 File: reverse_number.c
 
 3. Sum of Digits
 Calculates the sum of digits of an integer.
+
 File: sum_of_digits.c
 
 4. Multiplication Table Generator
 Generates the multiplication table of a user-provided number.
+
 File: multiplication_table.c
 
 5. Largest Element in an Array
 Finds the largest number in an array entered by the user.
+
 File: largest_in_array.c
 
 6. String Length Without Built-in Function
 Calculates the length of a string without using built-in functions such as strlen().
+
 File: string_length.c
 
 # How to Compile and Run
 
 You can compile and run these programs using any standard C compiler.
+
 Example:
 gcc filename.c -o output
 ./output
+
 Replace filename.c with the program you want to execute.
 
 #Purpose of This Repository
 
 Strengthen C programming fundamentals
+
 Practice intermediate programming logic
+
 Build a consistent coding habit
+
 Prepare for advanced topics such as Data Structures and Algorithms
 
 # Author
