@@ -23,7 +23,7 @@ Logical problem solving
 1. Armstrong Number Checker
 Checks whether a given number is an Armstrong number.
 
-File: armstrong_number.c
+File: armstrong.c
 
 2. Reverse Number
 Reverses the digits of a given number using mathematical operations.
